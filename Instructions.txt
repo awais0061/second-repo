@@ -1,0 +1,24 @@
+How to push a new repo to Github.com
+
+#Steps
+## Create a new repository in Github first...
+	Why?
+	Becuase we need a remote origin url
+	when we create a new repo in github it gives us a url like: https://github.com/user-name/repo-name.git
+
+Steps to create a local git repo in local machine...
+
+#Step 1: git init
+#Step 2: git add . (Book kary ga sari files or folder ki)
+#Step 3: git commit -m "any message" (it will cut their tickets and put them to the bus)
+#Step 4: git branch -M branch-name  ( it can be any name like main, your name or anyname)
+#Step 5: git remote add origin https://github.com/user-name/repo-name.git"
+#step 6: git push -u origin main.
+
+
+
+## How can i push changes to an existing repo.
+#step 1: git add . (it tracks all the changes)
+#setp 2: git commit -m "any message"
+#step 3: git push origin main
+ 
