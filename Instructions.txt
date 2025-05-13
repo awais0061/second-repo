@@ -21,4 +21,7 @@ Steps to create a local git repo in local machine...
 #step 1: git add . (it tracks all the changes)
 #setp 2: git commit -m "any message"
 #step 3: git push origin main
+
+
+Now it was all for today. Thank you.
  
